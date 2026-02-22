@@ -1,0 +1,8 @@
+aiohttp>=3.9,<4.0
+aiofiles>=23.0,<25.0
+beautifulsoup4>=4.12,<5.0
+lxml>=5.0,<6.0
+openpyxl>=3.1,<4.0
+tqdm>=4.66,<5.0
+playwright>=1.40,<2.0
+Pillow>=10.0,<11.0
