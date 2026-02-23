@@ -1,0 +1,18 @@
+{
+  "includeCoAuthoredBy": false,
+  "permissions": {
+    "allow": [
+      "Bash(pip3 list:*)",
+      "Bash(pip install:*)",
+      "Bash(python3:*)",
+      "Bash(grep aiohttp:*)",
+      "Bash(tail:*)",
+      "Bash(bin/python:*)",
+      "Bash(source:*)",
+      "Bash(.venv/bin/pip install:*)",
+      "Bash(git init:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)"
+    ]
+  }
+}
